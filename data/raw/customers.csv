@@ -1,0 +1,6 @@
+customer_id,name,email,region,signup_date
+101,Himanshu Tripathi,himanshu@gmail.com,North,2023-01-15
+102,Ashish Singh,ashish.s@outlook.com,South,12/02/2023
+103,Gaurav Kumar,,West,2023-03-20
+101,Himanshu Tripathi,himanshu@gmail.com,North,2023-05-10
+104,Muskan Kumari,muskan@invalid,East,01-04-2023

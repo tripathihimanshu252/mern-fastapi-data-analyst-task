@@ -1,0 +1,5 @@
+product_id,product_name,category,unit_price
+P01,Laptop,Electronics,50000
+P02,Mouse,Accessories,1500
+P03,Keyboard,Accessories,2500
+P04,Monitor,Electronics,12000

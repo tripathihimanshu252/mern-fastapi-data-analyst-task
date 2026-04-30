@@ -1,0 +1,6 @@
+order_id,customer_id,product,amount,order_date,status,order_year_month
+OR001,101.0,Laptop,50000.0,2024-10-01,completed,2024-10
+OR002,102.0,Mouse,1500.0,,pending,
+OR003,103.0,Keyboard,,,completed,
+OR004,101.0,Monitor,12000.0,,completed,
+OR005,,Laptop,50000.0,2024-05-02,cancelled,2024-05

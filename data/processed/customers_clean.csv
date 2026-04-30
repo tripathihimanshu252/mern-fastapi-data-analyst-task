@@ -1,0 +1,5 @@
+customer_id,name,email,region,signup_date,is_valid_email
+101,Himanshu Tripathi,himanshu@gmail.com,North,2023-05-10,True
+103,Gaurav Kumar,,West,2023-03-20,False
+102,Ashish Singh,ashish.s@outlook.com,South,,True
+104,Muskan Kumari,muskan@invalid,East,,False
